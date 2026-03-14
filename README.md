@@ -4,7 +4,7 @@
 A Python-based Smart Expense Tracker with GUI and CSV storage.  
 It helps users record daily expenses, categorize them, and view reports.
 
----
+----
 
 ## ⚙️ Setup Instructions
 
